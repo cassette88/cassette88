@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Dave and I enjoy hacking around in javascript, specifically Node.js and React. I've come to really enjoy working with Next.js and exploring Sanity CMS. 
 
-I've learned to enjoy the nervous feeling of learning new things, whether it be a different framework or an array method like reduce (ha,ha). Also, my chickens and 3 stray/rescue cats help keep me sane.
+I've also learned to enjoy the nervous feeling of learning new things, whether it be a different framework or an array method like reduce (ha,ha). Also, my chickens and 3 stray/rescue cats help keep me sane.
 
 I started coding in earnest in 2018 after taking a web developer bootcamp course online via Colt Steele's Udemy course; which I definitely recommend, along with some other instructors including Maximilian Schwarzmüller, Andrew Mead and Angela Yu. It's fun to be able to build apps in areas that interest you, and those people really are helpful. 
 
