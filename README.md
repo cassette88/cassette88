@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hello friends!
 
-My name is Dave and I enjoy hacking around in javascript, specifically Node.js and React. I've come to really enjoy working with Next.js and exploring Sanity CMS. 
+My name is Dave and I enjoy hacking around in JavaScript, specifically Node.js and React. I've come to really enjoy working with Next.js and exploring Sanity CMS. 
 
 I've also learned to enjoy the nervous feeling of learning new things, whether it be a different framework or an array method like reduce (ha,ha). Also, my chickens and 3 stray/rescue cats help keep me sane.
 
