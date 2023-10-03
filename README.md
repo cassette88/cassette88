@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **cassette88/cassette88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 ## Hello friends! 
+
+### Hi there 👋
 
 My name is Dave and I specialize in building web applications and APIs using Node.js, React.
 
