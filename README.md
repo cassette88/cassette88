@@ -14,12 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello friends!
 
-My name is Dave and I enjoy hacking around in JavaScript, specifically Node.js and React. I've come to really enjoy working with Next.js and exploring Sanity CMS. 
 
-I've also learned to enjoy the nervous feeling of learning new things, like deploying a Docker container with a new library or using a new (to me 😅) array method like reduce (ha,ha). Also, my chickens and 3 stray/rescue cats help keep me sane.
+## Hello friends! 
 
-I started coding in earnest in 2018 after taking a web developer bootcamp course online via Colt Steele's Udemy course; which I definitely recommend, along with some other instructors including Maximilian Schwarzmüller, Andrew Mead and Angela Yu. It's fun to be able to build apps in areas that interest you, and those people really are helpful. 
+My name is Dave and I specialize in building web applications and APIs using Node.js, React.
 
-## Happy coding! 
+For the content backend, I've used Sanity CMS and MongoDB to flexibly model content as needed for different applications. Sanity provides an intuitive interface for managing content and makes it easy to access via APIs. I containerize my Node servers with Docker for portability. I'm continuing to explore these modern web architectures to build fast, scalable sites and apps.
+
+In my free time, I enjoy learning new things outside of web development, like exploring penetration testing methodologies and researching CVE exploits. My small backyard farm with 10 hens, a rooster named Roscoe, a dog, and a sweet cat provide welcome breaks when I need to reset and recharge.
+
+I started exploring full-stack development in 2018 after taking some excellent online courses from instructors like Colt Steele, Maximilian Schwarzmüller, Andrew Mead, and Angela Yu. It's been fun to build projects in areas I'm interested in using the skills I've developed.
+
+Some technologies I've been working with:
+
+- Sanity CMS - For content modeling and management 
+- Next.js - For server-side rendering and API routes
+- Vercel - For painless CI/CD
+- Docker-  For deploying APIs in the cloud with Express
+- MongoDB - For flexible document databases
+
+I love how intuitive Sanity makes managing content across sites and applications. The community resources have also been tremendously helpful in learning how to get up and running.
+
+
+## Happy coding!
