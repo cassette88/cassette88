@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is Dave and I specialize in building web applications and APIs using Node.js, React.
+My name is Dave and I specialize in building web applications and APIs using Node.js, React and Sanity.
 
 For the content backend, I've used Sanity CMS and MongoDB to flexibly model content as needed for different applications. Sanity provides an intuitive interface for managing content and makes it easy to access via APIs. I containerize my Node servers with Docker for portability. I'm continuing to explore these modern web architectures to build fast, scalable sites and apps.
 
